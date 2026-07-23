@@ -1,0 +1,30 @@
+2026-07-09 09:31:17,517 INFO Pipeline Started
+2026-07-09 09:31:17,517 INFO Extract Stage Started
+2026-07-09 09:31:17,519 INFO Data Extracted Successfully
+2026-07-09 09:31:17,519 INFO Validation Started
+2026-07-09 09:31:17,520 ERROR Missing Required Column: product
+2026-07-09 09:31:49,539 INFO Pipeline Started
+2026-07-09 09:31:49,539 INFO Extract Stage Started
+2026-07-09 09:31:49,541 INFO Data Extracted Successfully
+2026-07-09 09:31:49,541 INFO Validation Started
+2026-07-09 09:31:49,541 ERROR Missing Required Column: product
+2026-07-09 09:33:27,991 INFO Pipeline Started
+2026-07-09 09:33:27,991 INFO Extract Stage Started
+2026-07-09 09:33:27,993 INFO Data Extracted Successfully
+2026-07-09 09:33:27,993 INFO Validation Started
+2026-07-09 09:33:27,993 INFO Column Validation Completed
+2026-07-09 09:33:27,993 INFO Dataset Validation Completed
+2026-07-09 09:33:27,993 INFO Numeric Validation Completed
+2026-07-09 09:33:27,993 INFO Transformation Started
+2026-07-09 09:33:27,994 INFO Duplicate Records Removed
+2026-07-09 09:33:27,996 INFO Missing Values Removed
+2026-07-09 09:33:27,997 INFO Product Names Standardized
+2026-07-09 09:33:27,997 INFO Region Names Standardized
+2026-07-09 09:33:27,997 INFO Negative Sales Converted to Positive
+2026-07-09 09:33:27,997 INFO Total Sales: 227700.0
+2026-07-09 09:33:27,998 INFO Total Records After Transformation: 9
+2026-07-09 09:33:27,998 INFO Transformation Completed
+2026-07-09 09:33:27,998 INFO Load Stage Started
+2026-07-09 09:33:28,000 INFO Output File Created
+2026-07-09 09:33:28,001 INFO Pipeline Execution Time: 0.01 seconds
+2026-07-09 09:33:28,001 INFO Pipeline Completed Successfully
